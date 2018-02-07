@@ -1,0 +1,4 @@
+git clone https://github.com/valtux/arriba.git
+git init 
+git commit -m "first commit"
+git remote add origin -y la url-
